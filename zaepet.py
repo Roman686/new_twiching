@@ -3,3 +3,5 @@ if num == 1:
     print('Лошадь')
     print('корова')
     print('говнарь')
+else:
+    print('Хеллло!')
