@@ -1,5 +1,6 @@
 num = int(input('Введите 1 или 2: '))
 if num == 1:
+    print('Свинья')
     print('Лошадь')
     print('корова')
     print('говнарь Чича')
